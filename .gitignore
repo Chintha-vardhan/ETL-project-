@@ -1,0 +1,21 @@
+# Database file (too large for GitHub)
+RetailFlow/retailflow.db
+
+# Raw data CSVs (large dataset files)
+RetailFlow/data/raw/
+
+# Logs
+RetailFlow/logs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# Archive
+archive.zip
